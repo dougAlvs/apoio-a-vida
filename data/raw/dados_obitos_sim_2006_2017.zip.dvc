@@ -1,0 +1,5 @@
+outs:
+- md5: 4893b2995cc4bfb36a8f126a3617b134
+  size: 135354174
+  hash: md5
+  path: dados_obitos_sim_2006_2017.zip

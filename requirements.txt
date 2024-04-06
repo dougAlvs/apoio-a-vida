@@ -1,0 +1,6 @@
+pandas==2.2.1
+numpy==1.26.4
+dvc==3.49.0
+dvc_gdrive==3.0.1
+ipykernel==6.29.4
+mkdocs==1.5.3
