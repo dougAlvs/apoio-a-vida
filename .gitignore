@@ -1,6 +1,6 @@
-/data/raw
-/data/interim
-/data/processed
+/data/raw/*
+/data/interim/*
+/data/processed/*
 
 !/data/raw/*.dvc
 !/data/interim/*.dvc

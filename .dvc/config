@@ -1,4 +1,7 @@
 [core]
     remote = myremote
+    autostage = true
+[cache]
+    type = hardlink
 ['remote "myremote"']
     url = gdrive://14ZqtapPRiRihMR0rFnNKCGDbYdKDkjQU
