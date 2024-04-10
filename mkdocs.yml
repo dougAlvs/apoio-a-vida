@@ -1,0 +1,21 @@
+repo_url: https://github.com/dougAlvs/apoio-a-vida
+repo_name: apoio-a-vida
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+site_name: Apoio à Vida
+nav:
+  - Home: index.md
