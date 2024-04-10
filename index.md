@@ -1,21 +1,21 @@
-# Welcome to Apoio à Vida
+# Bem-vindo ao Apoio à Vida
 
-This is the official website for the Apoio à Vida project.
+Esta é a página oficial do projeto Apoio à Vida.
 
-## About Us
+## Sobre Nós
 
-We are dedicated to providing support and resources for mental health and well-being.
+Dedicamo-nos a fornecer apoio e recursos para a saúde mental e bem-estar.
 
-## Services
+## Serviços
 
-- **Counseling**: Professional counseling services for individuals and families.
-- **Support Groups**: Join our support groups for a safe space to share experiences and receive support.
-- **Resources**: Access helpful resources and information about mental health.
+- **Aconselhamento**: Serviços profissionais de aconselhamento para indivíduos e famílias.
+- **Grupos de Apoio**: Junte-se aos nossos grupos de apoio para um espaço seguro para compartilhar experiências e receber apoio.
+- **Recursos**: Acesse recursos úteis e informações sobre saúde mental.
 
-For more information, visit our [GitHub repository](https://github.com/dougAlvs/apoio-a-vida).
+Para mais informações, visite nosso [repositório no GitHub](https://github.com/dougAlvs/apoio-a-vida).
 
 :::info
-Contact us for any inquiries or support.
+Entre em contato conosco para quaisquer dúvidas ou apoio.
 :::
 
-[//]: # (You can add more sections and content as needed.)
+[//]: # (Você pode adicionar mais seções e conteúdos conforme necessário.)
