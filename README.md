@@ -38,7 +38,7 @@ python3 -m ipykernel install --user --name=apoio-venv
 dvc pull
 ```
 
-6º - A visualização dos dados brutos iniciais pode ser realizada executando o notebook visualize_data.ipynb na pasta notebooks.
+6º - A EDA dos dados pode ser visualizada no notebook eda.ipynb ou no eda.html no diretório docs.
 
 ## Equipe
 
