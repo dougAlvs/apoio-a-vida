@@ -1,6 +1,5 @@
 outs:
-- md5: 9b78fa28c0377dc0e1fbd3ac74602561
-  size: 25710867
-  isexec: true
+- md5: 37244e29e77c5412471741fc2608ceaa
+  size: 24484283
   hash: md5
   path: sim_2006_2017.parquet
