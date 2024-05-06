@@ -1,0 +1,6 @@
+outs:
+- md5: 0c8cf92695e3db2942369d1fe4ee1b7a
+  size: 730
+  isexec: true
+  hash: md5
+  path: stdscaler.pkl
