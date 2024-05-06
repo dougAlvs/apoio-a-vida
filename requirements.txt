@@ -5,3 +5,8 @@ dvc_gdrive==3.0.1
 ipykernel==6.29.4
 mkdocs==1.5.3
 mkdocs-material==8.2.9
+scikit-learn==1.4.2
+matplotlib
+pydotplus
+graphviz
+pyarrow
